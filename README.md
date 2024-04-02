@@ -3,8 +3,6 @@ Front End Development internship assignment to devlop a figma design showcasing 
 
 # Installation
 
-To get started with the BlackCoffer Visualization Dashboard:
-
 # Clone this repository: 
   git clone https://github.com/MukeshKaswan1/Hexleap-Assignment.git
 
